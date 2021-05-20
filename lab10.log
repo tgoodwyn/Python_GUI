@@ -1,0 +1,37 @@
+05/19/2021 10:29:41 PM,INFO,Program Started...
+05/19/2021 10:29:50 PM,DEBUG,Starting new HTTP connection (1): www.omdbapi.com:80
+05/19/2021 10:29:50 PM,DEBUG,http://www.omdbapi.com:80 "GET /?t=Gladiator&page=1&plot=short&apikey=4b0e927d HTTP/1.1" 200 None
+05/19/2021 10:29:50 PM,INFO,movie found in database
+05/19/2021 10:29:50 PM,INFO,OpenMovie.getPoster called. Movie title: Gladiator, Poster URL: https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+05/19/2021 10:29:51 PM,DEBUG,Starting new HTTP connection (1): www.omdbapi.com:80
+05/19/2021 10:29:51 PM,DEBUG,http://www.omdbapi.com:80 "GET /?t=Gladiator&page=1&plot=short&apikey=4b0e927d HTTP/1.1" 200 None
+05/19/2021 10:29:51 PM,DEBUG,Starting new HTTPS connection (1): www.imdb.com:443
+05/19/2021 10:29:51 PM,DEBUG,https://www.imdb.com:443 "GET /title/tt0172495/awards?ref_=tt_awd HTTP/1.1" 200 None
+05/19/2021 10:30:07 PM,INFO,Program Started...
+05/19/2021 10:30:25 PM,DEBUG,Starting new HTTP connection (1): www.omdbapi.com:80
+05/19/2021 10:30:25 PM,DEBUG,http://www.omdbapi.com:80 "GET /?t=American+Beauty&page=1&plot=short&apikey=4b0e927d HTTP/1.1" 200 None
+05/19/2021 10:30:25 PM,INFO,movie found in database
+05/19/2021 10:30:25 PM,INFO,OpenMovie.getPoster called. Movie title: American Beauty, Poster URL: https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg
+05/19/2021 10:30:25 PM,INFO,no director found
+05/19/2021 10:30:25 PM,INFO,no lead found
+05/19/2021 10:30:25 PM,DEBUG,Starting new HTTP connection (1): www.omdbapi.com:80
+05/19/2021 10:30:25 PM,DEBUG,http://www.omdbapi.com:80 "GET /?t=American_Beauty&page=1&plot=short&apikey=4b0e927d HTTP/1.1" 200 None
+05/19/2021 10:30:26 PM,DEBUG,Starting new HTTPS connection (1): www.imdb.com:443
+05/19/2021 10:30:26 PM,DEBUG,https://www.imdb.com:443 "GET /title/tt0169547/awards?ref_=tt_awd HTTP/1.1" 200 None
+05/19/2021 10:37:00 PM,INFO,Program Started...
+05/19/2021 10:37:05 PM,DEBUG,Starting new HTTP connection (1): www.omdbapi.com:80
+05/19/2021 10:37:05 PM,DEBUG,http://www.omdbapi.com:80 "GET /?t=Avatar&page=1&plot=short&apikey=4b0e927d HTTP/1.1" 200 None
+05/19/2021 10:37:05 PM,INFO,movie found in database
+05/19/2021 10:37:05 PM,INFO,OpenMovie.getPoster called. Movie title: Avatar, Poster URL: https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg
+05/19/2021 10:37:05 PM,DEBUG,Starting new HTTP connection (1): www.omdbapi.com:80
+05/19/2021 10:37:05 PM,DEBUG,http://www.omdbapi.com:80 "GET /?t=Avatar&page=1&plot=short&apikey=4b0e927d HTTP/1.1" 200 None
+05/19/2021 10:37:05 PM,DEBUG,Starting new HTTPS connection (1): www.imdb.com:443
+05/19/2021 10:37:06 PM,DEBUG,https://www.imdb.com:443 "GET /title/tt0499549/awards?ref_=tt_awd HTTP/1.1" 200 None
+05/19/2021 10:37:21 PM,DEBUG,Starting new HTTP connection (1): www.omdbapi.com:80
+05/19/2021 10:37:21 PM,DEBUG,http://www.omdbapi.com:80 "GET /?t=Gladiator&page=1&plot=short&apikey=4b0e927d HTTP/1.1" 200 None
+05/19/2021 10:37:21 PM,INFO,movie found in database
+05/19/2021 10:37:21 PM,INFO,OpenMovie.getPoster called. Movie title: Gladiator, Poster URL: https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+05/19/2021 10:37:21 PM,DEBUG,Starting new HTTP connection (1): www.omdbapi.com:80
+05/19/2021 10:37:21 PM,DEBUG,http://www.omdbapi.com:80 "GET /?t=Gladiator&page=1&plot=short&apikey=4b0e927d HTTP/1.1" 200 None
+05/19/2021 10:37:21 PM,DEBUG,Starting new HTTPS connection (1): www.imdb.com:443
+05/19/2021 10:37:22 PM,DEBUG,https://www.imdb.com:443 "GET /title/tt0172495/awards?ref_=tt_awd HTTP/1.1" 200 None
